@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570564122610",
+    "project_id": "sesss-c24cf",
+    "storage_bucket": "sesss-c24cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570564122610:android:b7392f4a06126079113d6b",
+        "android_client_info": {
+          "package_name": "com.example.srs5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhk9xC8912_Ht2dCJVA3LdJrS2VrURLmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
